@@ -5,4 +5,4 @@ to Himi Misaki and Ruqing Yang had faded out of the team since at least 2018.
 
 ## Sponsor Service
 
-Please read https://github.com/MouriNaruto#sponsor-service.
+Please read https://github.com/MouriNaruto/MouriNaruto/tree/main/Sponsor.
